@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Please make your selection:</string>
+    <string name="app_name">Calc Price</string>
+    <string name="btnAlc">Alc</string>
+    <string name="btnPizza">Pizza</string>
+    <string name="btnDrink">Drink</string>
+</resources>

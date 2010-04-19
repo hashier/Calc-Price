@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MainTextViewWelcome">This app will help you to choose which bottle is the right one to buy</string>
+    <string name="MainTextViewUsage">For easier comparison you can enter two bottles at the same time</string>
+    <string name="MainTextViewFirstBottle">First bottle</string>
+    <string name="MainTextViewSecondBottle">Second bottle</string>
+    <string name="MainButtonCalc">Calculate</string>
+    <string name="MainButtonDel1">Clear</string>
+    <string name="MainButtonDel2">Clear</string>
+    <string name="MainTextViewQuantity">Quantity</string>
+    <string name="MainTextViewPer">Percentage</string>
+    <string name="MainTextViewPrice">Price</string>
+    <string name="MainTextViewSolution1">Solution One</string>
+    <string name="MainTextViewSolution2">Solution Two</string>
+    <string name="MainTextViewError">Error</string>
+    <string name="MainEditQuantity_Hint">0.7</string>
+    <string name="MainEditPer_Hint">42</string>
+    <string name="MainEditPrice_Hint">7.98</string>
+</resources>
